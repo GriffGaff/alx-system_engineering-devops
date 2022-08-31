@@ -1,0 +1,1 @@
+I am writing a script that prints the absolute pathname of my cwd
